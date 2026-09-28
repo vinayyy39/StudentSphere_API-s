@@ -4,9 +4,9 @@ spring:
   application:
     name: datarest
   datasource:
-    url: jdbc:postgresql://dpg-daprtrou01pc73dogdm0-a.oregon-postgres.render.com:5432/springjpa_9zcj
-    username: springjpa_9zcj_user
-    password: K90HroJIpWFlF6hwos9Eqc7gC2rL3ueg
+    url: jdbc:postgresql://dpg-dat4mu0jo6nc73e87hkg-a.oregon-postgres.render.com:5432/studentsphere_098e  
+    username: studentsphere_098e_user
+    password: WXTi7QAzAEVLRDONwKpoDXMJwc3bpsaS
     driver-class-name: org.postgresql.Driver
   jpa:
     show-sql: true
